@@ -8,7 +8,7 @@
     <?php require('inc/links.php') ?>
     <link rel="stylesheet" href="./common/lib_css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-    <title>HBS</title>
+    <title>Mountainview</title>
     <style>
         .availability-form {
             margin-top: -50px;
@@ -316,10 +316,7 @@
                                     
                                 </div>
                             </div>          
-                        </div> 
-                       
-                        
-          
+                        </div>                             
                 </div>
         </div>
             <div class="col-lg-12 text-center mt-5">
